@@ -1,7 +1,7 @@
 # Trabajo Práctico Integrador – Computación Aplicada
 Universidad de Palermo — 2025
 
-- Integrantes:
+- Integrantes Grupo 6:
   - Marco Antonio Braithwaite Paredes
   - Lucas Cristaldo
   - Celina Galloni
