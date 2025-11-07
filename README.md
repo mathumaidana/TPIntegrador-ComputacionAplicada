@@ -17,3 +17,6 @@ Universidad de Palermo — 2025
     - 00:00 → /var/logs  
     - 23:00 L-M-V → /www_dir
   - Entregables: tars y var.tar.gz.part.
+
+- Link a VM
+  - https://palermo-my.sharepoint.com/:u:/g/personal/mmaida9_up_edu_ar/EfKFBIC289VFrekj5qoS9hoBy3-gBrcD0fgMBuYrBeeaUw?e=BCw9q5
